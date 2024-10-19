@@ -30,8 +30,12 @@ You can find the full paper [here] (To be filled).
 ## File Structure<a name="FileStructure"/>
 ├── ConductanceSyn_HH_Network_CA3/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for cleaning the tabular data.  
 ├── Fig1/&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for transmitting EEG data from participants' PCs  to the server.  
-├── EEG data analysis/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for cleaning and analyzing EEG data.  
-├── EEG sanity checks/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
+├── Fig2/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for cleaning and analyzing EEG data.  
+├── Fig3/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
+├── Fig4/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
+├── Fig5/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
+├── Fig6/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
+├── Fig7/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains files for sanity checks.  
 ├── README.md  
 └── LICENSE
 
